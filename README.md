@@ -5,6 +5,7 @@ I need inspiration to cook or when I am asked about good vegan meal ideas, and w
 when I can do it in code?! 😂
 
 This app is hosted on Netlify and can be found at [recipes.chrisstone.dev](https://recipes.chrisstone.dev).
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/36e2d986-9660-4e73-ae18-5f204941c95d/deploy-status)](https://app.netlify.com/sites/chrisstonedev-recipe-book/deploys)
 
 ## Development
