@@ -1,0 +1,4 @@
+baseURL = 'https://recipes.chrisstone.dev/'
+languageCode = 'en-us'
+title = 'Recipe Book'
+theme = "ananke"
