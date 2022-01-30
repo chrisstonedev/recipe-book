@@ -1,0 +1,10 @@
+{{ define "main" }}
+
+<!--suppress HtmlUnknownTarget -->
+<p><a class="summary" href="{{ .Parent.RelPermalink }}">
+    Back to {{ .Parent.Title }}
+</a></p>
+
+<h1>{{ .Title }}</h1>
+{{ .Content }}
+{{ end }}

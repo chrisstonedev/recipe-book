@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&family=Roboto+Slab&display=swap');
+
+:root {
+    --header-background: darkgreen;
+    --main-background: white;
+}
+
+header, footer, p, li {
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2, h3 {
+    font-family: 'Roboto Slab', serif;
+}
+
+body {
+    background: var(--header-background);
+    margin: 0;
+}
+
+main {
+    background: var(--main-background);
+}
+
+h1, h3, p {
+    margin: 0;
+}
+
+header, main, footer {
+    padding: 16px;
+}
+
+header, footer {
+    color: white;
+}
+
+header a {
+    color: white;
+    font-size: x-large;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+footer a {
+    color: white;
+}
+
+a {
+    color: green;
+}
